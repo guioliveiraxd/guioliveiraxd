@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Estudante de Análise e Desenvolvimento de Sistemas<br>Buscando oportunidade de estágio.
 
 

@@ -34,24 +34,12 @@ I have experience working in multinational companies and developing web applicat
 
 ---
 
-## 🚀 Featured Projects
-
-### 👩‍💼 Women's Protection System
-
-Development of a PHP-based platform focused on mapping, visualization, and access control for organizations that support women affected by domestic violence.
-
-### 📸 Photography Portfolio Website
-
-Responsive portfolio website built with React and Vite, featuring dynamic galleries, WhatsApp integration, and performance-focused design.
-
----
-
 ## 📚 Currently Learning
 
 * Data Structures and Algorithms
 * SQL & Database Modeling
 * Docker
-* Cloud Fundamentals
+* programming logic.
 * Software Engineering
 
 ---

@@ -1,4 +1,4 @@
-aplica as mudancas ai no meu: # Hi 👋, I'm Guilherme Oliveira
+# Hi 👋, I'm Guilherme Oliveira
 
 🎓 Systems Analysis and Development Student at FATEC
 

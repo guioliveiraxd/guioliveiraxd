@@ -1,4 +1,4 @@
-# Hi 👋, I'm Guilherme Oliveira
+aplica as mudancas ai no meu: # Hi 👋, I'm Guilherme Oliveira
 
 🎓 Systems Analysis and Development Student at FATEC
 
@@ -42,11 +42,10 @@ I have experience working in multinational companies and developing web applicat
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guioliveiraxd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioliveiraxd&layout=compact&theme=github_dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=guioliveiraxd&theme=github-dark-blue&hide_border=true&locale=pt_BR&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" />
+  <img src="https://streak-stats.demolab.com/?user=guioliveiraxd&theme=tokyonight&hide_border=true" />
 </div>
+
 ---
 
 ![](https://visitcount.itsvg.in/api?id=guioliveiraxd&icon=5&color=12)

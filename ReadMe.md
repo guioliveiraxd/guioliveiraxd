@@ -2,11 +2,9 @@
 
 🎓 Systems Analysis and Development Student at FATEC
 
-💻 Future Full-Stack Developer
+💻 Future Software Engineer
 
 🚀 Looking for an Internship Opportunity in Software Development
-
-I'm currently pursuing a degree in Systems Analysis and Development and building my experience through academic projects, personal studies, and freelance work.
 
 I have experience working in multinational companies and developing web applications using React, JavaScript, Node.js, PHP, SQL, and modern development tools.
 

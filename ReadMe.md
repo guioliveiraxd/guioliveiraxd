@@ -9,9 +9,6 @@
 I have experience working in multinational companies and developing web applications using React, JavaScript, Node.js, PHP, SQL, and modern development tools.
 
 ---
-
-## 🌎 Where to Find Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-oliveira-aa94002b6)
 
 ---
@@ -50,15 +47,6 @@ I have experience working in multinational companies and developing web applicat
   <br/>
   <img src="https://streak-stats.demolab.com/?user=guioliveiraxd&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-## 🎯 Goals for 2026
-
-- Land my first software development internship
-- Improve my back-end and database skills
-- Learn Docker, AI and Cloud technologies
-- Build real-world projects and contribute to open source
 
 ---
 

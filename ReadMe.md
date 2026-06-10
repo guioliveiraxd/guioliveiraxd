@@ -1,10 +1,10 @@
-# Hi 👋, I'm Guilherme Oliveira
+# Hi, I'm Guilherme Oliveira
 
-🎓 Systems Analysis and Development Student at FATEC
+Systems Analysis and Development Student at FATEC
 
-💻 Future Software Engineer
+Future Software Engineer
 
-🚀 Looking for an Internship Opportunity in Software Development
+Looking for an Internship Opportunity in Software Development
 
 I have experience working in multinational companies and developing web applications using React, JavaScript, Node.js, PHP, SQL, and modern development tools.
 
@@ -13,7 +13,7 @@ I have experience working in multinational companies and developing web applicat
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,7 +30,7 @@ I have experience working in multinational companies and developing web applicat
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Data Structures and Algorithms
 - SQL & Database Modeling
@@ -39,7 +39,7 @@ I have experience working in multinational companies and developing web applicat
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <br/>

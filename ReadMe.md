@@ -2,8 +2,6 @@
 
 Systems Analysis and Development Student at FATEC
 
-Future Software Engineer
-
 Looking for an Internship Opportunity in Software Development
 
 I have experience working in multinational companies and developing web applications using React, JavaScript, Node.js, PHP, SQL, and modern development tools.

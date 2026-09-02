@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme Oliveira
+# Hi, I'm Guilherme
 
 Systems Analysis and Development Student at FATEC
 
